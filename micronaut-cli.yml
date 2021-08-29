@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.mastercard
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, graalvm, http-client, java, junit, logback, lombok, maven, mockito, picocli, picocli-java-application, picocli-junit, readme, shade, yaml]
